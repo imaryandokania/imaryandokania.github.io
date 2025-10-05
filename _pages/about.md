@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Aryan Dokania
+This is Aryan Dokania.
 
 <!-- A data-driven personal website
 ======
